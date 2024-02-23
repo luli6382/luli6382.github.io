@@ -1,11 +1,13 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: luli6382
+description: luli6382 public site
 theme: just-the-docs
+
+plugins:
+  - jekyll-default-layout
 
 url: https://luli6382.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Repo Link: https://github.com/luli6382/luli6382.github.io
 
-plugins:
-  - jekyll-default-layout
+color_scheme: dark
