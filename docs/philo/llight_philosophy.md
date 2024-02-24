@@ -1,1 +1,0 @@
-# llight framework: philosophy

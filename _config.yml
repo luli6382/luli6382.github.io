@@ -11,3 +11,7 @@ aux_links:
   Repo Link: https://github.com/luli6382/luli6382.github.io
 
 color_scheme: dark
+
+collections:
+  staff_members:
+    output: true
